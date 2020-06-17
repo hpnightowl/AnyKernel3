@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=jalebi
-device.name2=Yunique
-device.name3=Yu
-device.name4=YUNIQUE
-device.name5=Yu Yunique
+device.name1=RMX1911
+device.name2=Realme
+device.name3=Realme 5
+device.name4=realme5
+device.name5=realme 5
 supported.versions=
 supported.patchlevels=
 '; } # end properties
